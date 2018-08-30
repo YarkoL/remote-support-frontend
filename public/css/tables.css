@@ -1,0 +1,98 @@
+﻿.viesti-table-header{
+    background-color: #555;
+    height: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.center-container {
+    margin-top: 20px;
+}
+.viesti-table-separated{
+    padding: 10px;
+    background-color: aliceblue;
+}
+.viesti-table-h{
+    color: white;
+    font-size: 24px;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+.viesti-table-btn{
+    border-radius: 50%;
+    background-color: skyblue;
+    color: white;
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+.viesti-table-search-bar {
+    position: relative;
+}
+.viesti-table-search-bar input {
+    padding-right: 30px;
+    background-color: #555;
+    border-radius: 15px;
+    border: 1px solid skyblue;
+    color: white;
+}
+.viesti-table-search-bar i {
+    position: absolute;
+    right: 0;
+    padding: 10px 12px;
+    pointer-events: none;
+    color: skyblue;
+}
+.viesti-table-filters{
+    color: #555;
+    margin-left: 50px;
+    height: 60px;
+    background-color: white;
+}
+.viesti-table-filters-h{
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.viesti-table {
+    height: 300px;
+    background-color: white;
+    overflow: auto;
+    width: 100%;
+}
+.viesti-table-container{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.table-style {
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    width: 100%;
+}
+.table-style td{
+    color: #555;
+    border-bottom: 1px solid #a7e9e7;
+    padding: 10px;
+}
+.viesti-collapse-filter{
+    position: absolute;
+    margin-top: 55px;
+    left: 0;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.viesti-filter-btn{
+    border-collapse: collapse;
+    background-color: white;
+    border: none;
+}
+.table-style-sessions-list{
+    background-color: white;
+    border-radius: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+}

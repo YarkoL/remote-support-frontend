@@ -1,0 +1,46 @@
+﻿.viesti-header-profile-pic {
+    width: 75px;
+}
+.viesti-header-profile {
+    margin-top: 12px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.viesti-header-center {
+    /*position: absolute;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: 0;
+    bottom: 0;*/
+    margin-top: 30px;
+}
+
+.viesti-header {
+    background-color: #555;
+    height: 100px;
+}
+
+.viesti-logo-header {
+    width: 200px;
+    margin-left: 30px;
+}
+
+.viesti-search-bar {
+    position: relative;
+}
+
+.viesti-search-bar input {
+    padding-right: 30px;
+    background-color: #555;
+    border-radius: 15px;
+    border: 1px solid skyblue;
+    color: white;
+}
+
+.viesti-search-bar i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+    color: skyblue;
+}

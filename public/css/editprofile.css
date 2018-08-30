@@ -1,0 +1,26 @@
+﻿.viesti-editprofile{
+    color:#555;
+    margin-top: 33px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.viesti-editprofile-inputs{
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+
+}
+.viesti-editprofile-submitbtn {
+    background: linear-gradient(to right, turquoise, darkturquoise);
+    color: white;
+    width: 150px;
+    font-size: 20px;
+    height: 55px;
+    border-radius: 15px;
+    border-radius: 10px;
+    box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+.viesti-editprofile-submitbtn:hover {
+    background: /*rgb(0, 160, 160)*/ linear-gradient(to right, lightseagreen, darkcyan);
+    color: white;
+}

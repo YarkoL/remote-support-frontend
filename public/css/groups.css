@@ -1,0 +1,18 @@
+﻿.viesti-groups {
+    color: #555;
+}
+.viesti-groups-td-name{
+    color: #555;
+    border-bottom: 1px solid #a7e9e7;
+    font-weight: bold;
+    padding: 10px;
+}
+.viesti-groups-a {
+    color: dodgerblue;
+}
+.viesti-groups-th {
+    border: 1px solid aliceblue;
+    border-bottom: 1px solid aliceblue;
+    padding: 10px;
+}
+

@@ -1,0 +1,156 @@
+body{font-family:"Open Sans"}
+.body-content{padding-left:15px;padding-right:15px}
+.carousel-caption p{font-size:20px;line-height:1.4}
+.carousel-inner .item img[src$=".svg"]{width:100%}
+#qrCode{margin:15px}@media screen and (max-width:767px){.carousel-caption{display:none}}
+.viesti-full-height{height:100%;}
+.viesti-body-full-height{height:100vh;padding-top:100px;}
+.viesti-login-title{font-size:28px;text-align:center;margin:46px 0 46px 0}
+.viesti-logo{position:absolute;right:0;top:0;margin-right:61px;margin-top:28px}
+.viesti-login-background{background-image:url('../images/viesti_login_background.png');background-size:cover;height:100vh}
+.viesti-login-input{font-size:20px;height:48px;color:#555656;border-radius:10px;border:1px solid #e5e5e5}
+.viesti-login-margin{margin-left:54px;margin-right:54px;margin-bottom:33px;font-size:20px}
+.viesti-login-button{background-color:rgba(105,208,201,1);color:#fff;width:100%;font-size:28px;height:64px;box-shadow:1px 4px 6px rgba(0,0,0,.16);border-radius:10px}
+.viesti-login-button:hover{background-color:#00a0a0;color:#fff}
+.viesti-login-container{width:512px;height:512px;border-radius:15px;position:absolute;margin:auto;top:0;bottom:0;left:0;right:0;background-color:#fff}
+.viesti-text-danger{color:#e42724;position:absolute;margin-top:4px;font-size:16px}
+.viesti-forgot-password{cursor:pointer;font-size:17px;color:#555656}
+.viesti-login-a{text-decoration:underline;cursor:pointer}
+.viesti-sign-up{background-color:rgba(105,208,201,.1);position:absolute;bottom:0;width:100%;height:64px}
+.viesti-login-p{font-size:20px;text-align:center;margin-bottom:0;padding:18px}
+.viesti-nav-button{background:linear-gradient(to right,#40e0d0,#00ced1);color:#fff;width:90%;font-size:14px;margin-left:10px;margin-right:10px;height:30px;border-radius:10px;margin-bottom:20px}
+.viesti-nav-button:hover{background:linear-gradient(to right,#20b2aa,#008b8b);color:#fff}
+.viesti-nav-chat{color:#000;width:90%;margin-left:5%;margin-right:5%;background-color:#f0f8ff;height:200px;border-radius:15px;padding-top:10px;padding-left:10px;padding-right:10px}
+.col-md-2{padding:0}
+.viesti-navchat-search{position:relative}
+.viesti-navchat-search input{width:90%;padding:10px;background-color:#f0f8ff;border:none;border-radius:0;border-bottom:1px solid #555;color:#555}
+.viesti-navchat-search i{position:absolute;right:0;padding:10px 12px;pointer-events:none;color:#555}
+.viesti-nav-project{color:#fff;margin-right:5%;margin-left:5%;width:90%}
+.viesti-navbar{background-color:#555;height:100%;}
+.viesti-nav-project-btn{width:100%;text-align:left;border:1px solid #fff;background-color:#555;color:#fff}
+.viesti-project-droparrow{position:absolute;right:0;margin-right:10px;margin-top:10px;color:#fff}
+.viesti-header-profile-pic{width:75px}
+.viesti-header-profile{margin-top:12px;margin-right:50px;cursor:pointer}
+.viesti-header-center{margin-top:30px}
+.viesti-header{background-color:#555;height:100px}
+.viesti-logo-header{width:200px;margin-left:30px}
+.viesti-search-bar{position:relative}
+.viesti-search-bar input{padding-right:30px;background-color:#555;border-radius:15px;border:1px solid #87ceeb;color:#fff}
+.viesti-search-bar i{position:absolute;right:0;padding:10px 12px;pointer-events:none;color:#87ceeb}
+.viesti-editprofile{color:#555;margin-top:33px;margin-left:50px;margin-right:50px}
+.viesti-editprofile-inputs{border-radius:10px;border:1px solid #e5e5e5}
+.viesti-editprofile-submitbtn{background:linear-gradient(to right,#40e0d0,#00ced1);color:#fff;width:150px;font-size:20px;height:55px;border-radius:15px;border-radius:10px;box-shadow:1px 4px 6px rgba(0,0,0,.16)}
+.viesti-editprofile-submitbtn:hover{background:linear-gradient(to right,#20b2aa,#008b8b);color:#fff}
+.viesti-groups{color:#555}
+.viesti-groups-td-name{color:#555;border-bottom:1px solid #a7e9e7;font-weight:bold;padding:10px}
+.viesti-groups-a{color:#1e90ff}
+.viesti-groups-th{border:1px solid #f0f8ff;border-bottom:1px solid #f0f8ff;padding:10px}
+.viesti-table-header{background-color:#555;height:100px;padding:10px;border-radius:10px}
+.center-container{margin-top:20px}
+.viesti-table-h{color:#fff;font-size:24px;margin-right:20px;margin-left:50px}
+.viesti-table-btn{border-radius:50%;background-color:#87ceeb;color:#fff;margin-right:20px;width:30px;height:30px;border:none}
+.viesti-table-search-bar{position:relative}
+.viesti-table-search-bar input{padding-right:30px;background-color:#555;border-radius:15px;border:1px solid #87ceeb;color:#fff}
+.viesti-table-search-bar i{position:absolute;right:0;padding:10px 12px;pointer-events:none;color:#87ceeb}
+.viesti-table-filters{color:#555;margin-left:50px;height:60px;background-color:#fff}
+.viesti-table-filters-h{margin-right:20px;margin-top:20px;margin-bottom:20px}
+.viesti-table{height:300px;background-color:#fff;overflow:auto;width:100%}
+.viesti-table-groups{height:300px;background-color:#fff;width:100%}
+.viesti-table-container{background-color:#f0f8ff;border-radius:10px}
+.table-style{border-collapse:collapse;font-size:14px;line-height:20px;margin-bottom:20px;max-width:100%;width:100%}
+.table-style td{color:#555;border-bottom:1px solid #a7e9e7;padding:10px}
+.viesti-collapse-filter{position:absolute;margin-top:55px;left:0;width:100%;padding-left:10px;padding-right:10px}
+.col-md-10{overflow-x: auto; padding-top: 15px;}
+.viesti-filter-btn{border-collapse:collapse;background-color:#fff;border:none}
+.viesti-form-container{background-color:#f0f8ff;border-radius:10px;padding:20px}
+.viesti-form-container-input{border-collapse:collapse;border-radius:0;border:none}
+.viesti-forms-button-save{background-color:rgba(105,208,201,1);color:#fff;font-size:18px;height:40px;border-radius:10px;width:40%;margin-left:10px}
+.viesti-forms-button-close{background-color:#778899;color:#fff;font-size:18px;height:40px;border-radius:10px;width:40%;margin-right:10px}
+.viesti-table-separated{
+    padding: 10px;
+    background-color: aliceblue;
+}
+.viesti-sessions-table {
+    height: 400px;
+    background-color: white;
+    overflow: auto;
+    width: 100%;
+    padding: 10px;
+}
+.viesti-description{
+    overflow: auto;
+    max-height: 200px;
+}
+.viesti-sessions-title-btn{
+    background-color: aliceblue;
+    font-weight: bold;
+    color: #555;
+    border: 1px solid aliceblue;
+}
+.viesti-sessions-desc-text {
+    overflow: hidden;
+    max-width: 10ch;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+.viesti-status-green {
+    background-color: #89E273;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.viesti-status-gray {
+    background-color: gray;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.viesti-status-red {
+    background-color:#E27373;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.viesti-status-yellow {
+    background-color: #E2D073;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.table-style-sessions-list{
+    background-color: white;
+    border-radius: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.modal-container {
+    position: relative;
+  }
+.modal-container .modal, .modal-container .modal-backdrop {
+    position: absolute;
+  }
+.viesti-description{
+    overflow: auto;
+    max-height: 200px;
+}
+.viesti-table-right-td {
+    border-left: 1px solid turquoise;
+}
+.viesti-modal-footer{
+    padding: 10px;
+}
+.viesti-modal { position: fixed; top: 0; right: 0; bottom: 0; left: 0; width: 1200px;}
+.viesti-sessions-infos td {padding: 5px;}
+.viesti-dropdown-toggle {
+    background-color: #555;
+    border: none;
+}
+.viesti-dropdown-toggle :hover{
+    background-color: #555;
+    border: none;
+}
+.viesti-dropdown-toggle :visited{
+    background-color: #555;
+    border: none;
+}

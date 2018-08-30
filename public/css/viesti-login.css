@@ -1,0 +1,97 @@
+﻿.viesti-login-title {
+    font-size: 28px;
+    text-align: center;
+    margin: 46px 0 46px 0;
+}
+
+.viesti-logo {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 61px;
+    margin-top: 28px;
+}
+
+.viesti-login-background {
+    background-image: url('../images/viesti_login_background.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.viesti-login-input {
+    font-size: 20px;
+    height: 48px;
+    color: #555656;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+}
+
+.viesti-login-margin {
+    margin-left: 54px;
+    margin-right: 54px;
+    margin-bottom: 33px;
+    font-size: 20px;
+}
+
+.viesti-login-button {
+    background-color: rgba(105, 208, 201, 1);
+    color: white;
+    width: 100%;
+    font-size: 28px;
+    height: 64px;
+    /*/box-shadow: 1px 5px 8px #e5e5e5;*/
+    box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+}
+
+.viesti-login-button:hover {
+    background-color: rgb(0, 160, 160);
+    color: white;
+}
+
+.viesti-login-container {
+    width: 512px;
+    height: 512px;
+    border-radius: 15px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+.viesti-text-danger {
+    color: #e42724;
+    position: absolute;
+    margin-top: 4px;
+    font-size: 16px;
+}
+
+.viesti-forgot-password {
+    cursor: pointer;
+    font-size: 17px;
+    color: #555656;
+}
+
+.viesti-login-a {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.viesti-sign-up {
+    background-color: rgba(105, 208, 201, 0.10);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 64px;
+}
+
+.viesti-login-p {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 18px;
+}

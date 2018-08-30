@@ -1,0 +1,28 @@
+﻿.viesti-form-container{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 20px;
+}
+.viesti-form-container input{
+    border-collapse: collapse;
+    border-radius: 0px;
+    border: none;
+}
+.viesti-forms-button-save {
+    background-color: rgba(105, 208, 201, 1);
+    color: white;
+    font-size: 18px;
+    height: 40px;
+    border-radius: 10px;
+    width: 100%;
+    margin-left: 10px;
+}
+.viesti-forms-button-close {
+    background-color: lightslategray;
+    color: white;
+    font-size: 18px;
+    height: 40px;
+    border-radius: 10px;
+    width: 100%;
+    margin-right: 10px;
+}

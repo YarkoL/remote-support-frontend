@@ -1,0 +1,125 @@
+{
+	"success": true,
+	"sessions": [
+		{
+			"_id": "5a81528bbd5b0e38ac807bef",
+			"createdBy": "5a7c21431b09e41cd4623aa6",
+			"_group": {
+				"_id": "5a7d901ba986721fdc771743",
+				"organization": "",
+				"name": "TestGroup",
+				"description": "testing testing"
+			},
+			"title": "Lorem Ipsum",
+			"description": "Lorem ipsum dolor sit amet",
+			"severity": 0,
+			"status": 0,
+			"report": "",
+			"machineID": "Eveliina-PC",
+			"gpslocation": "-10,22",
+			"devicetype": "PC",
+			"callrequest": true,
+			"attachments": [],
+			"tags": [],
+			"solvedBy": [],
+			"updatedBy": [],
+			"createdOn": "2018-02-12T08:38:35.986Z"
+		},
+		{
+			"_id": "5a81504cbd5b0e38ac807bee",
+			"createdBy": "5a7c21431b09e41cd4623aa6",
+			"_group": {
+				"_id": "5a7d901ba986721fdc771743",
+				"organization": "",
+				"name": "TestGroup",
+				"description": "testing testing"
+			},
+			"title": "New problem",
+			"description": "testing",
+			"severity": 0,
+			"status": 0,
+			"report": "",
+			"machineID": "Eveliina-PC",
+			"gpslocation": "-10,22",
+			"devicetype": "PC",
+			"callrequest": true,
+			"attachments": [],
+			"tags": [],
+			"solvedBy": [],
+			"updatedBy": [],
+			"createdOn": "2018-02-12T08:29:00.824Z"
+		},
+		{
+			"_id": "5a7d90d0a986721fdc771745",
+			"createdBy": "5a7c21431b09e41cd4623aa6",
+			"_group": {
+				"_id": "5a7d901ba986721fdc771743",
+				"organization": "",
+				"name": "TestGroup",
+				"description": "testing testing"
+			},
+			"title": "Test troubles",
+			"description": "testing",
+			"severity": 0,
+			"status": 0,
+			"report": "",
+			"machineID": "Eveliina-PC",
+			"gpslocation": "-10,22",
+			"devicetype": "PC",
+			"callrequest": true,
+			"attachments": [],
+			"tags": [],
+			"solvedBy": [],
+			"updatedBy": [],
+			"createdOn": "2018-02-09T12:15:12.214Z"
+		},
+		{
+			"_id": "5a7d9084a986721fdc771744",
+			"createdBy": "5a7c21431b09e41cd4623aa6",
+			"_group": {
+				"_id": "5a7c245e1b09e41cd4623aa7",
+				"organization": "",
+				"name": "DevGroup",
+				"description": "for testing"
+			},
+			"title": "Test troubles",
+			"description": "testing",
+			"severity": 0,
+			"status": 0,
+			"report": "",
+			"machineID": "Eveliina-PC",
+			"gpslocation": "-10,22",
+			"devicetype": "PC",
+			"callrequest": true,
+			"attachments": [],
+			"tags": [],
+			"solvedBy": [],
+			"updatedBy": [],
+			"createdOn": "2018-02-09T12:13:56.453Z"
+		},
+		{
+			"_id": "5a7c48c11b09e41cd4623aaa",
+			"createdBy": "5a7c21431b09e41cd4623aa6",
+			"_group": {
+				"_id": "5a7c245e1b09e41cd4623aa7",
+				"organization": "",
+				"name": "DevGroup",
+				"description": "for testing"
+			},
+			"title": "Test troubles",
+			"description": "just testing",
+			"severity": 0,
+			"status": 0,
+			"report": "",
+			"machineID": "Eveliina-Home",
+			"gpslocation": "-10,22",
+			"devicetype": "PC",
+			"callrequest": true,
+			"attachments": [],
+			"tags": [],
+			"solvedBy": [],
+			"updatedBy": [],
+			"createdOn": "2018-02-08T12:55:29.065Z"
+		}
+	]
+}

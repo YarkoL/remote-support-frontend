@@ -1,0 +1,79 @@
+﻿.viesti-nav-button {
+    background: /*rgb(105, 208, 201)*/linear-gradient(to right, turquoise, darkturquoise);
+    color: white;
+    width: 90%;
+    font-size: 14px;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.viesti-nav-button:hover {
+    background: /*rgb(0, 160, 160)*/ linear-gradient(to right, lightseagreen, darkcyan);
+    color: white;
+}
+
+.viesti-nav-chat {
+    color: black;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: aliceblue;
+    height: 200px;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.viesti-navchat-search {
+    position: relative;
+}
+.viesti-navchat-search input {
+    padding: 10px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #555;
+    color: #555;
+}
+.viesti-navchat-search i {
+    position: absolute;
+    right: 0;
+    padding: 10px 12px;
+    pointer-events: none;
+    color: #555;
+}
+
+.viesti-nav-project {
+    color: white;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+
+}
+
+.viesti-navbar {
+    background-color: #555;
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.viesti-nav-project-btn {
+    width: 100%;
+    text-align: left;
+    border: 1px solid white;
+    background-color: #555;
+    color: white;
+}
+
+.viesti-project-droparrow {
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: white;
+}
